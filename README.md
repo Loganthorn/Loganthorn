@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing a bachelor’s degree in computer science at the University of North Alabama, <br>where I am a member of the Honors College and the Association for Computing Machinery (ACM). <br>I have interned with Nside, a school safety platform, gaining hands-on experience.<br> In addition to my academic and professional pursuits, <br>I am a student-athlete and a member of the University of North Alabama football team.
+I am currently pursuing a bachelor’s degree in computer science at the University of North Alabama, <br>where I am a member of the Honors College and the Association for Computing Machinery (ACM). <br>I have interned with Nside, a school safety platform, gaining hands on experience.<br> In addition to my academic and professional pursuits, <br>I am a student athlete and a member of the University of North Alabama football team.
 
 
 ## 🌐 Socials:
